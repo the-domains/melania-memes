@@ -1,4 +1,3 @@
-layout_spectrum: 0.3658637944608927
 typography_spectrum: 0.6098057143390179
 color:
   brandStrength: 0.8351441465783864
@@ -11,5 +10,7 @@ color:
     - '#ECF0F1'
     - '#3498DB'
     - '#2980B9'
+layout_spectrum: 0.3658637944608927
 name: Melania Memes
 title: Melania Memes
+description: Because what is greater than these?
