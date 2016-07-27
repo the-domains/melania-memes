@@ -4,8 +4,15 @@
         <description><![CDATA[Melania Memes]]></description>
         <link>https://thegrid.ai/melania-memes/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Jul 2016 20:41:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2016 20:45:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/melania-memes/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Melania wants a free speech]]></title>
+            <description><![CDATA[<article><h1>Melania wants a free speech</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a8c0cbb9-b6b0-4420-bbf4-b2c5ae6921bd.jpg"></article>]]></description>
+            <link>https://thegrid.ai/melania-memes/melania-wants-a-free-speech/index.html</link>
+            <guid isPermaLink="false">aaf63443-b9cd-4220-a98a-56fff60bf456</guid>
+            <pubDate>Wed, 27 Jul 2016 20:42:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Melania is a proud graduate of Trump U!]]></title>
             <description><![CDATA[<article><h1>Melania is a proud graduate of Trump U!</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/826ec5a7-65c9-4572-ae96-18d89408ba43.jpg"></article>]]></description>
@@ -47,13 +54,6 @@
             <link>https://thegrid.ai/melania-memes/f0de7b35-8e96-44ef-9b2e-4703dc33f2f4/index.html</link>
             <guid isPermaLink="false">f0de7b35-8e96-44ef-9b2e-4703dc33f2f4</guid>
             <pubDate>Wed, 27 Jul 2016 20:33:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Melania wants a free speech]]></title>
-            <description><![CDATA[<article><h1>Melania wants a free speech</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a8c0cbb9-b6b0-4420-bbf4-b2c5ae6921bd.jpg"></article>]]></description>
-            <link>https://thegrid.ai/melania-memes/melania-wants-a-free-speech/index.html</link>
-            <guid isPermaLink="false">aaf63443-b9cd-4220-a98a-56fff60bf456</guid>
-            <pubDate>Wed, 27 Jul 2016 20:32:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
