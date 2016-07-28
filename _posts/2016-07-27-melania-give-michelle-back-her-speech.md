@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-07-28T00:29:29.382Z'
+datePublished: '2016-07-28T00:31:55.428Z'
 sourcePath: _posts/2016-07-27-melania-give-michelle-back-her-speech.md
 author: []
 via: {}
-dateModified: '2016-07-28T00:29:29.146Z'
+dateModified: '2016-07-28T00:31:54.770Z'
 title: Melania give Michelle back her speech...
 publisher: {}
 description: ''
