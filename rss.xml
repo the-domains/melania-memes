@@ -4,8 +4,15 @@
         <description><![CDATA[Melania Memes]]></description>
         <link>https://thegrid.ai/melania-memes/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Jul 2016 00:27:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2016 00:28:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/melania-memes/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/11f97226-3d8d-4014-9e26-987d6914a746.jpg">]]></description>
+            <link>https://thegrid.ai/melania-memes/76283c2b-4fd6-4c5b-87c9-c1c9dcff35df/index.html</link>
+            <guid isPermaLink="false">76283c2b-4fd6-4c5b-87c9-c1c9dcff35df</guid>
+            <pubDate>Thu, 28 Jul 2016 00:27:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0447399a-8933-4fb0-b06d-ec9384af8ab3.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/melania-memes/melania-wants-a-free-speech/index.html</link>
             <guid isPermaLink="false">aaf63443-b9cd-4220-a98a-56fff60bf456</guid>
             <pubDate>Thu, 28 Jul 2016 00:16:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Melania thanks Copy and Paste ]]></title>
-            <description><![CDATA[<article><h1>Melania thanks Copy and Paste </h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3bf3811b-9c17-4f39-96db-bc8a65046a15.jpg"></article>]]></description>
-            <link>https://thegrid.ai/melania-memes/melania-thanks-copy-and-paste/index.html</link>
-            <guid isPermaLink="false">4e5e7883-656c-4e3a-ab19-39dd8448a5ea</guid>
-            <pubDate>Wed, 27 Jul 2016 23:52:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
