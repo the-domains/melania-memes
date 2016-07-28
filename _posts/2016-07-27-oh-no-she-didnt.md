@@ -1,13 +1,13 @@
 ---
-datePublished: '2016-07-27T23:51:57.392Z'
+datePublished: '2016-07-28T00:18:29.630Z'
+sourcePath: _posts/2016-07-27-oh-no-she-didnt.md
 author: []
 via: {}
-dateModified: '2016-07-27T23:50:48.113Z'
+dateModified: '2016-07-28T00:18:28.927Z'
 title: Oh no she didn't!
 publisher: {}
 description: ''
 starred: false
-sourcePath: _posts/2016-07-27-oh-no-she-didnt.md
 inFeed: true
 hasPage: true
 inNav: false
