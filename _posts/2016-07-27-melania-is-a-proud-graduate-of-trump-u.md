@@ -1,13 +1,13 @@
 ---
-datePublished: '2016-07-27T20:41:06.140Z'
+datePublished: '2016-07-28T00:28:53.464Z'
+sourcePath: _posts/2016-07-27-melania-is-a-proud-graduate-of-trump-u.md
 author: []
 via: {}
-dateModified: '2016-07-27T20:41:00.554Z'
-title: Melania is a proud graduate of Trump U!
+dateModified: '2016-07-28T00:28:53.053Z'
+title: Melania is a proud graduate of Trump U!  It's not a scam!
 publisher: {}
 description: ''
 starred: false
-sourcePath: _posts/2016-07-27-melania-is-a-proud-graduate-of-trump-u.md
 inFeed: true
 hasPage: true
 inNav: false
