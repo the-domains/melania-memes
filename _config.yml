@@ -11,6 +11,8 @@ color:
     - '#3498DB'
     - '#2980B9'
 layout_spectrum: 0.3658637944608927
+analytics:
+  google: UA-81480019-1
 name: Melania Memes
 title: Melania Memes
 description: Because what is greater than these?
