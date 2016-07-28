@@ -1,13 +1,13 @@
 ---
-datePublished: '2016-07-27T23:51:59.456Z'
+datePublished: '2016-07-28T00:28:06.754Z'
+sourcePath: _posts/2016-07-27-melania-loves-plagiarism.md
 author: []
 via: {}
-dateModified: '2016-07-27T23:51:10.177Z'
+dateModified: '2016-07-28T00:28:06.382Z'
 title: Melania loves plagiarism
 publisher: {}
 description: ''
 starred: false
-sourcePath: _posts/2016-07-27-melania-loves-plagiarism.md
 inFeed: true
 hasPage: true
 inNav: false
