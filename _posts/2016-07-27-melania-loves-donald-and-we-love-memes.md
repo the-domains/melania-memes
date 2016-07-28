@@ -1,13 +1,13 @@
 ---
-datePublished: '2016-07-27T20:37:46.290Z'
+datePublished: '2016-07-28T00:17:10.307Z'
+sourcePath: _posts/2016-07-27-melania-loves-donald-and-we-love-memes.md
 author: []
 via: {}
-dateModified: '2016-07-27T20:37:17.652Z'
+dateModified: '2016-07-28T00:17:10.049Z'
 title: Melania loves Donald and we love MEMES
 publisher: {}
 description: ''
 starred: false
-sourcePath: _posts/2016-07-27-melania-loves-donald-and-we-love-memes.md
 inFeed: true
 hasPage: true
 inNav: false
