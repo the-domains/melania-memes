@@ -1,13 +1,13 @@
 ---
-datePublished: '2016-07-27T23:52:52.719Z'
+datePublished: '2016-07-28T00:28:16.272Z'
+sourcePath: _posts/2016-07-27-melania-thanks-copy-and-paste.md
 author: []
 via: {}
-dateModified: '2016-07-27T23:52:45.940Z'
+dateModified: '2016-07-28T00:28:15.844Z'
 title: 'Melania thanks Copy and Paste '
 publisher: {}
 description: ''
 starred: false
-sourcePath: _posts/2016-07-27-melania-thanks-copy-and-paste.md
 inFeed: true
 hasPage: true
 inNav: false
