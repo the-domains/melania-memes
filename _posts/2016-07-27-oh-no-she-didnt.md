@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-07-28T00:18:29.630Z'
+datePublished: '2016-07-28T00:29:11.169Z'
 sourcePath: _posts/2016-07-27-oh-no-she-didnt.md
 author: []
 via: {}
-dateModified: '2016-07-28T00:18:28.927Z'
+dateModified: '2016-07-28T00:29:10.869Z'
 title: Oh no she didn't!
 publisher: {}
 description: ''
