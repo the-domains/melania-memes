@@ -1,13 +1,13 @@
 ---
-datePublished: '2016-07-27T20:38:52.560Z'
+datePublished: '2016-07-28T00:16:59.164Z'
+sourcePath: _posts/2016-07-27-melania-isnt-black.md
 author: []
 via: {}
-dateModified: '2016-07-27T20:38:26.962Z'
+dateModified: '2016-07-28T00:16:58.240Z'
 title: Melania isn't black?
 publisher: {}
 description: ''
 starred: false
-sourcePath: _posts/2016-07-27-melania-isnt-black.md
 inFeed: true
 hasPage: true
 inNav: false
