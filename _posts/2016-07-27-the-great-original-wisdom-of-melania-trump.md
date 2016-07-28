@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-07-28T00:30:52.205Z'
+datePublished: '2016-07-28T01:09:51.351Z'
 sourcePath: _posts/2016-07-27-the-great-original-wisdom-of-melania-trump.md
 author: []
 via: {}
-dateModified: '2016-07-28T00:30:51.203Z'
+dateModified: '2016-07-28T01:09:51.041Z'
 title: The great "original" wisdom of Melania Trump
 publisher: {}
 description: ''
